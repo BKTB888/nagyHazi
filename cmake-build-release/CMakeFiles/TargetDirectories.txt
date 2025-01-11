@@ -1,3 +1,3 @@
-/Users/banfalvikatalin/Downloads/Nagy H†zi/Nagy_Hazi/cmake-build-release/CMakeFiles/sodoku2.dir
-/Users/banfalvikatalin/Downloads/Nagy H†zi/Nagy_Hazi/cmake-build-release/CMakeFiles/edit_cache.dir
-/Users/banfalvikatalin/Downloads/Nagy H†zi/Nagy_Hazi/cmake-build-release/CMakeFiles/rebuild_cache.dir
+/media/bktivadar/SHARED/Sudoku/nagyHazi/cmake-build-release/CMakeFiles/sodoku2.dir
+/media/bktivadar/SHARED/Sudoku/nagyHazi/cmake-build-release/CMakeFiles/edit_cache.dir
+/media/bktivadar/SHARED/Sudoku/nagyHazi/cmake-build-release/CMakeFiles/rebuild_cache.dir
