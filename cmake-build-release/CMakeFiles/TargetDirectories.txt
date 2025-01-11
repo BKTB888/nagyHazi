@@ -1,3 +1,0 @@
-/media/bktivadar/SHARED/Sudoku/nagyHazi/cmake-build-release/CMakeFiles/sodoku2.dir
-/media/bktivadar/SHARED/Sudoku/nagyHazi/cmake-build-release/CMakeFiles/edit_cache.dir
-/media/bktivadar/SHARED/Sudoku/nagyHazi/cmake-build-release/CMakeFiles/rebuild_cache.dir
